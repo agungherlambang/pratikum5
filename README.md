@@ -38,7 +38,7 @@ print(list_a)
 ![GAMBAR)](https://github.com/user-attachments/assets/4a4fbb8d-4d4c-4499-bbbc-e47da6576e34)
 
 # HASIL DARI PROGRAM BERIKUT:
-![GAMBAR](https://github.com/user-attachments/assets/5b3049ed-0e60-4062-ab93-909835ece686)
+![gambar](https://github.com/user-attachments/assets/374b0ed5-fa72-4b73-94af-25e8c1a634ac)
 
 # MENAMBAH DATA PY
 
