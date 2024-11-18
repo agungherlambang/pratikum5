@@ -5,8 +5,6 @@
 # MATKUL BAHASA PEMROGRAMAN 
 
 # ELEMEN PY
-
-
 ```pyhton
 list_a = [1, 2, 3, 4, 5]
 
