@@ -80,7 +80,6 @@ print("-" * 60)
 ````
 
 # penjelasan DARI CODE MENAMBAH DATA:
-
 ```pyhton
 class Mahasiswa:
     def __init__(self, nama, nim, nilai_tugas, nilai_uts, nilai_uas):
@@ -96,13 +95,11 @@ def hitung_nilai_akhir(self):
 ````
 
 # Metode ini mengembalikan nilai akhir mahasiswa, yang merupakan rata-rata dari nilai_tugas, nilai_uts, dan nilai_uas.
-
 ```pyhton
 mahasiswa = []
 ````
 
 # Sebuah daftar kosong mahasiswa disiapkan untuk menyimpan objek Mahasiswa yang akan ditambahkan
-
 ``pyhyon
 while True:
     nama = input("Nama: ")
@@ -118,7 +115,6 @@ while True:
         break
         ````
 # Meminta pengguna untuk memasukkan data mahasiswa berulang kali hingga pengguna memasukkan t untuk berhenti, Setiap input digunakan untuk membuat data Mahasiswa, yang kemudian ditambahkan ke dalam daftar mahasiswa
-
 ```pyhton
 print("-" * 60)
 print("| No | Nama       | NIM  | Tugas | UTS  | UAS  | Akhir     |")
