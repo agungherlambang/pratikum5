@@ -35,3 +35,7 @@ print(list_a)
 ````
 # KODE PROGRAM DI VIUSAL CODE SEBAGAI BERIKUT:
 ![GAMBAR)](https://github.com/user-attachments/assets/4a4fbb8d-4d4c-4499-bbbc-e47da6576e34)
+
+# MENAMBAH DATA.PY
+![GAMBAR](https://github.com/user-attachments/assets/5b3049ed-0e60-4062-ab93-909835ece686)
+
