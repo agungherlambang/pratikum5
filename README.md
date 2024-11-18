@@ -6,7 +6,8 @@
 
 # ELEMEN PY
 
-````pyhton
+
+```pyhton
 list_a = [1, 2, 3, 4, 5]
 
 print(list_a[2])
@@ -40,6 +41,8 @@ print(list_a)
 ![GAMBAR](https://github.com/user-attachments/assets/5b3049ed-0e60-4062-ab93-909835ece686)
 
 # MENAMBAH DATA PY
+
+
 ```pyhton
 class Mahasiswa:
     def _init_(self, nama, nim, nilai_tugas, nilai_uts, nilai_uas):
