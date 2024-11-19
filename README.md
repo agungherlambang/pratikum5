@@ -133,7 +133,8 @@ print("-" * 60)
 ![gambar)](https://github.com/user-attachments/assets/db7a87c6-3aab-461a-94f6-0187414538a5)
 
 # HASIL PROGRAM DI ATAS SEPERTI DI BAWAH INI :
-![gambar](https://github.com/user-attachments/assets/8fcf131a-430c-4d39-9c46-56f02bede7a4)
+![gambar](https://github.com/user-attachments/assets/8e20dc3d-6d77-44ef-8d8a-38ee58200c8d)
+
 
 # DAN DI BAWAH INI ADALAH FLOWCHART NYA :
 ![gambar](https://github.com/user-attachments/assets/3a848af4-286c-46b9-98cd-6b0203bacfb1)
